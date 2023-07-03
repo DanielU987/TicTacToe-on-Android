@@ -18,12 +18,15 @@ To run this application, you need to have the following installed on your system
 ## Getting Started
 Follow these steps to get started with the Tic-Tac-Toe game:
 
-1. Clone the repository from GitHub: https://github.com/DanielU987/TicTacToe-on-Android
-2. Open Android Studio and select "Open an existing Android Studio project."
-3. Navigate to the cloned directory and select the project.
-4. Wait for the project to sync and build.
-5. Connect an Android device or start an emulator.
-6. Run the application by clicking on the "Run" button in Android Studio or by using the shortcut Shift + F10.
+1. Clone the repository from GitHub:
+   ```
+   https://github.com/DanielU987/TicTacToe-on-Android
+   ```
+3. Open Android Studio and select "Open an existing Android Studio project."
+4. Navigate to the cloned directory and select the project.
+5. Wait for the project to sync and build.
+6. Connect an Android device or start an emulator.
+7. Run the application by clicking on the "Run" button in Android Studio or by using the shortcut Shift + F10.
 
 ## Usage
 - When the game starts, you will see a 3x3 grid on the screen.
